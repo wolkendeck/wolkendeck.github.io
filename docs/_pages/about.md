@@ -1,32 +1,36 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: About Us
+subtitle: Infrastructure consultancy, Devops as a service
+description: Infrastructure consultancy, Devops as a service
+featured_image: /images/current/about.jpeg
 ---
 
-## Features
+## Core Values
 
-We've packed Personal full of powerful features to help showcase your work:
+We provide consultancy services that include improving your infrastructure, managing it as code and help you spreading the Devops culture and principles within your organization through workshops and knowledge sharing sessions
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+### Sustainability:
 
-## Get Personal
+Our goal is to build solutions that will continue to serve their purpose for years to come. We focus on simple and automated implementations and utilize Open Source technology to prevent vendor lock-in.
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+### Openness:
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+We don't work behind the scenes. Every step we undertake, to bring your business forward, will be transparent to you. We want you to be fully capable of taking over once our services are no longer needed.
+
+### Continuous learning:
+
+We realize that tooling and infrastructure is only one aspect of DevOps. In order to fully utilize the DevOps approach, we see it as one of our core responsibilities to spread the DevOps mindset and continuously educate about the solutions at hand.
+
+### Security:
+
+We integrate DevSecOps into your processes and hold top nudge Security as one of our core responsibilities.
+
+### Ready on day one:
+
+We have a structured approach to assessing your current situation and will derive a list of action items from this. Once we agree on the prioritization, we will be able to deliver many solutions straight from our existing tool belt.
+
+## Contact us
+
+Sounds interesting? you can get in touch with us
+
+<a href="https://wolkendeck.github.io/contact" class="button button--large">Contact form</a>
