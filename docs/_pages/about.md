@@ -1,13 +1,13 @@
 ---
 title: About Us
-subtitle: Infrastructure consultancy, Devops as a service
-description: Infrastructure consultancy, Devops as a service
+subtitle: Infrastructure and Devops as a service
+description: Infrastructure and Devops as a service
 featured_image: /images/current/about.jpeg
 ---
 
 ## Core Values
 
-We provide consultancy services that include improving your infrastructure, managing it as code and help you spreading the Devops culture and principles within your organization through workshops and knowledge sharing sessions
+We can help you improving your infrastructure, managing it as code and spreading the Devops culture and principles within your organization through workshops and knowledge sharing sessions
 
 ### Sustainability:
 
