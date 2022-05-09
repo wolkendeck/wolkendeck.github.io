@@ -1,7 +1,7 @@
 ---
 title: About Us
-subtitle: Infrastructure and Devops as a service
-description: Infrastructure and Devops as a service
+subtitle: Devops as a service
+description: Devops as a service
 featured_image: /images/current/about.jpeg
 ---
 

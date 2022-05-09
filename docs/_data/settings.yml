@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Services'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -16,11 +16,9 @@ menu_settings:
       url: '/about'
     - title: 'Who are we'
       url: '/who-are-we'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
-  footer_tagline: Infrastructure and Devops as a service
+  footer_tagline: DevOps as a Service
 
 hero_settings:
   overlay_opacity: 0.8
